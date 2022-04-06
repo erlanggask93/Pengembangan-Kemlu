@@ -3,11 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Pengembangan Kemlu 2021
+Pengembangan Kemlu 2022
 ===================================
 
-PP Financial Dashboard API Services adalah layanan web services berbasis REST APIs yang ditujukan untuk manajemen data financial di PT PP (Persero) Tbk.
-Layanan ini dibangun menggunakan bahasa pemrograman Golang (Go) yang berfokus ke performa dan kecepatan.
+Pengembangan Kemlu 2022 merupakan sebuah projek lanjutan......  kecepatan.
 
 .. image:: _static/pt-pp-logo.png
   :width: 400
