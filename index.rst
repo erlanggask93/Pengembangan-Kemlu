@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Pengembangan Kemlu 2022
+Manual Book Pengembangan Kemlu 2022
 ===================================
 
 Pengembangan Kemlu 2022 merupakan sebuah projek lanjutan......  kecepatan.
