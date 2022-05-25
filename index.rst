@@ -7,7 +7,7 @@ Pengembangan Kemlu 2022
 ===================================
 
 Pengembangan Kemlu 2022 merupakan sebuah projek lanjutan......  kecepatan.
-ayo dong
+ayo dong. yuk yak yuk
 
 .. image:: _static/pt-pp-logo.png
   :width: 400
