@@ -3,18 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Pengembangan Kemlu 2022
+Laporan Antara
 ===================================
 
-Pengembangan Kemlu 2022 merupakan sebuah projek lanjutan......  kecepatan.
-ayo dong. yuk yak yuk
 
-.. image:: _static/pt-pp-logo.png
+
+.. image:: _static/logo.png
   :width: 400
   :align: center
   :alt: PT PP (Persero) Tbk.
 
-Panduan Pengguna
+
+1. Pendahuluan
 ----------------
 
 Bagian dokumentasi ini dimulai dengan beberapa informasi untuk persyaratan, instalasi, dan konfigurasi. Kemudian fokus pada langkah demi langkah
@@ -29,11 +29,23 @@ instruksi untuk menggunakan PP Financial Dashboard API Services.
    pages/swagger
 
 
+
+
+2. Maksud dan Tujuan
+----------------
+Bagian dokumentasi ini dimulai dengan beberapa informasi untuk persyaratan, instalasi, dan konfigurasi. Kemudian fokus pada langkah demi langkah
+instruksi untuk menggunakan PP Financial Dashboard API Services. x
+
+* Maksud
+Bagian dokumentasi ini dimulai dengan beberapa informasi untuk persyaratan, instalasi, dan konfigurasi. Kemudian fokus pada langkah demi langkah
+instruksi untuk menggunakan PP Financial Dashboard API Services. 
+
+* Tujuan
+
 Versi Berjalan
 --------------
 
 * Go: 1.16 darwin/amd64
-
 
 Tautan Terkait
 --------------
