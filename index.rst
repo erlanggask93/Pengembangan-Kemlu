@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Manual Book  Pengembangan Kemlu 2022
+Laporan Antara
 ===================================
 
 Pengembangan Kemlu 2022 merupakan sebuah projek lanjutan......  kecepatan.
@@ -14,7 +14,7 @@ ayo dong. yuk yak yuk. waw
   :align: center
   :alt: PT PP (Persero) Tbk.
 
-Panduan Pengguna
+1.Pendahuluan
 ----------------
 
 Bagian dokumentasi ini dimulai dengan beberapa informasi untuk persyaratan, instalasi, dan konfigurasi. Kemudian fokus pada langkah demi langkah
@@ -33,6 +33,11 @@ Versi Berjalan
 --------------
 
 * Go: 1.16 darwin/amd64
+
+2. Maksud dan Tujuan
+----------------
+Bagian dokumentasi ini dimulai dengan beberapa informasi untuk persyaratan, instalasi, dan konfigurasi. Kemudian fokus pada langkah demi langkah
+instruksi untuk menggunakan PP Financial Dashboard API Services.
 
 
 Tautan Terkait
