@@ -14,7 +14,7 @@ ayo dong. yuk yak yuk. waw
   :align: center
   :alt: PT PP (Persero) Tbk.
 
-1.Pendahuluan
+1. Pendahuluan
 ----------------
 
 Bagian dokumentasi ini dimulai dengan beberapa informasi untuk persyaratan, instalasi, dan konfigurasi. Kemudian fokus pada langkah demi langkah
@@ -29,16 +29,23 @@ instruksi untuk menggunakan PP Financial Dashboard API Services.
    pages/swagger
 
 
-Versi Berjalan
---------------
 
-* Go: 1.16 darwin/amd64
 
 2. Maksud dan Tujuan
 ----------------
 Bagian dokumentasi ini dimulai dengan beberapa informasi untuk persyaratan, instalasi, dan konfigurasi. Kemudian fokus pada langkah demi langkah
-instruksi untuk menggunakan PP Financial Dashboard API Services. xxxx
+instruksi untuk menggunakan PP Financial Dashboard API Services. 
 
+* Maksud
+Bagian dokumentasi ini dimulai dengan beberapa informasi untuk persyaratan, instalasi, dan konfigurasi. Kemudian fokus pada langkah demi langkah
+instruksi untuk menggunakan PP Financial Dashboard API Services. 
+
+* Tujuan
+
+Versi Berjalan
+--------------
+
+* Go: 1.16 darwin/amd64
 
 Tautan Terkait
 --------------
