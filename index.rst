@@ -6,13 +6,13 @@
 Laporan Antara
 ===================================
 
-Pengembangan Kemlu 2022 merupakan sebuah projek lanjutan......  kecepatan.
-ayo dong. yuk yak yuk. waw
 
-.. image:: _static/pt-pp-logo.png
+
+.. image:: _static/logo.png
   :width: 400
   :align: center
   :alt: PT PP (Persero) Tbk.
+
 
 1. Pendahuluan
 ----------------
