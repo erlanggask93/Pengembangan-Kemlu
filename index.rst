@@ -5,8 +5,10 @@
 
 Laporan Antara
 ===================================
+:align: center
 
                                        Laporan Antara
+                                       :align: center
                                        ===================================
                                        
 
