@@ -5,7 +5,7 @@
 
 Laporan Antara
 ===================================
-                                       Laporan Antara
+                                       Laporan Antarax
 
 
 .. image:: _static/logo.png
