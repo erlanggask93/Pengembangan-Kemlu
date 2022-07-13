@@ -16,15 +16,14 @@ Laporan Antara
   :alt: PT PP (Persero) Tbk.
 
 
-1. Pendahuluan
-----------------
 
-Bagian dokumentasi ini dimulai dengan beberapa informasi untuk persyaratan, instalasi, dan konfigurasi. Kemudian fokus pada langkah demi langkah
-instruksi untuk menggunakan PP Financial Dashboard API Services.
+..
 
 .. toctree::
    :maxdepth: 2
 
+   pages/pendahuluan
+   pages/maksudtujuan
    pages/mei
    pages/requirement
    pages/installation-and-configuration
