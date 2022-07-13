@@ -5,11 +5,8 @@
 
 Laporan Antara
 ===================================
-:align: center
 
-                                       Laporan Antara
-                                       :align: center
-                                       ===================================
+                                       
                                        
 
 
@@ -28,7 +25,7 @@ instruksi untuk menggunakan PP Financial Dashboard API Services.
 .. toctree::
    :maxdepth: 2
 
-   pages/project-structure
+   pages/mei
    pages/requirement
    pages/installation-and-configuration
    pages/swagger
